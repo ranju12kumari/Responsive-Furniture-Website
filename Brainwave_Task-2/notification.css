@@ -1,0 +1,13 @@
+/* Cart Notification */
+.cart-notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #444;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 0.9em;
+    opacity: 0.9;
+    animation: fadeIn 0.3s ease;
+}
